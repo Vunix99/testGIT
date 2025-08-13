@@ -1,0 +1,1 @@
+const PASSWORD = process.env.PASSWORD ;
